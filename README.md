@@ -1,6 +1,6 @@
-PRODIGY_WD_02 – Stopwatch Web Application ⏱️
+Stopwatch Web Application ⏱️
 
-This project is a **Stopwatch Web Application** built as part of the **Prodigy Infotech Web Development Internship (Task 02)**.
+This project is a **Stopwatch Web Application**
 
 📌 Features
 - Start the stopwatch
@@ -29,5 +29,4 @@ This project is a **Stopwatch Web Application** built as part of the **Prodigy I
 
 ---
 
-🔗 Internship: Prodigy Infotech  
-📂 Task: PRODIGY_WD_02
+  
